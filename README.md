@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juansebohu
+- 👀 I’m interested in Backend technologies, I'm a Java Developer with Boot Spring.
+- 🌱 I’m currently learning GO. 
+- 📫 If you want to reach me, my personal github is @juasbhu28.
+- ⚡ Fun fact: JAVA's comes from the name of James Gosling's favorite coffee - 1990
